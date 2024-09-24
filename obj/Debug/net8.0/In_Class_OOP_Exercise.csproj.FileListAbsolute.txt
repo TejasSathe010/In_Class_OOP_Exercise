@@ -1,0 +1,14 @@
+/Users/tejassathe/USF-BAIS/DIS/In_Class_OOP_Exercise/bin/Debug/net8.0/In_Class_OOP_Exercise
+/Users/tejassathe/USF-BAIS/DIS/In_Class_OOP_Exercise/bin/Debug/net8.0/In_Class_OOP_Exercise.deps.json
+/Users/tejassathe/USF-BAIS/DIS/In_Class_OOP_Exercise/bin/Debug/net8.0/In_Class_OOP_Exercise.runtimeconfig.json
+/Users/tejassathe/USF-BAIS/DIS/In_Class_OOP_Exercise/bin/Debug/net8.0/In_Class_OOP_Exercise.dll
+/Users/tejassathe/USF-BAIS/DIS/In_Class_OOP_Exercise/bin/Debug/net8.0/In_Class_OOP_Exercise.pdb
+/Users/tejassathe/USF-BAIS/DIS/In_Class_OOP_Exercise/obj/Debug/net8.0/In_Class_OOP_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tejassathe/USF-BAIS/DIS/In_Class_OOP_Exercise/obj/Debug/net8.0/In_Class_OOP_Exercise.AssemblyInfoInputs.cache
+/Users/tejassathe/USF-BAIS/DIS/In_Class_OOP_Exercise/obj/Debug/net8.0/In_Class_OOP_Exercise.AssemblyInfo.cs
+/Users/tejassathe/USF-BAIS/DIS/In_Class_OOP_Exercise/obj/Debug/net8.0/In_Class_OOP_Exercise.csproj.CoreCompileInputs.cache
+/Users/tejassathe/USF-BAIS/DIS/In_Class_OOP_Exercise/obj/Debug/net8.0/In_Class_OOP_Exercise.dll
+/Users/tejassathe/USF-BAIS/DIS/In_Class_OOP_Exercise/obj/Debug/net8.0/refint/In_Class_OOP_Exercise.dll
+/Users/tejassathe/USF-BAIS/DIS/In_Class_OOP_Exercise/obj/Debug/net8.0/In_Class_OOP_Exercise.pdb
+/Users/tejassathe/USF-BAIS/DIS/In_Class_OOP_Exercise/obj/Debug/net8.0/In_Class_OOP_Exercise.genruntimeconfig.cache
+/Users/tejassathe/USF-BAIS/DIS/In_Class_OOP_Exercise/obj/Debug/net8.0/ref/In_Class_OOP_Exercise.dll
